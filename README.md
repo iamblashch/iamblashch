@@ -4,7 +4,8 @@ Hi 👋 My name is Bohdan
 I am a beginner web developer
 -----------------------------
 
-🔭 Learn web development courses 
+🔭 Learn web development courses GoIT
+
 ⚡ I want to learn a new profession and find a job.
 
 * 🌍  I'm based in Kyiv

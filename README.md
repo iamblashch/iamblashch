@@ -8,8 +8,11 @@ I am a beginner web developer
 
 ⚡ I want to learn a new profession and find a job.
 
-* 🌍  I'm based in Kyiv
-* ✉️  You can contact me at [bblashchuk08@gmail.com](mailto:bblashchuk08@gmail.com)
+*  I'm based in Kyiv
+*  I like to study
+*  In current time learning HTML/CSS/Js/React
+*  Devote a lot of time to read and sports
+*  You can contact me at [bblashchuk08@gmail.com](mailto:bblashchuk08@gmail.com)
 
 ### Skills
 
